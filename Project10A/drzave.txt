@@ -1,0 +1,4 @@
+Hrvatska hrv.txt
+Slovenija slo.txt
+Engleska eng.txt
+Japan jpn.txt

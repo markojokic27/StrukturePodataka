@@ -1,0 +1,4 @@
+Liverpool 500000
+London 1000000
+Manchester 800000
+Birmingham 200000

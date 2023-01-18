@@ -1,0 +1,18 @@
+﻿  Source.c
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(57,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(57,18): warning C4024: 'PrintSome': different types for formal and actual parameter 2
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(71,23): warning C4047: 'return': 'P_Drzava' differs in levels of indirection from 'int'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(89,30): warning C4047: 'return': 'P_Drzava' differs in levels of indirection from 'int'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(92,32): warning C4047: 'function': 'P_Drzava' differs in levels of indirection from 'P_Drzava *'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(92,27): warning C4024: 'NovaDrzava': different types for formal and actual parameter 2
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(93,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(93,31): warning C4024: 'CitaDatGradovi': different types for formal and actual parameter 2
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(101,48): warning C4028: formal parameter 2 different from declaration
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(131,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(131,12): warning C4024: 'NoviGrad': different types for formal and actual parameter 1
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(149,27): warning C4047: 'function': 'P_Grad' differs in levels of indirection from 'P_Grad *'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(149,12): warning C4024: 'UnosGrada': different types for formal and actual parameter 1
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(154,23): warning C4028: formal parameter 1 different from declaration
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(237): warning C4715: 'trazi_drzavu': not all control paths return a value
+C:\Users\nikol\Desktop\StrukturePodataka\Project10B\Source.c(192): warning C4715: 'UsporedbaGradova': not all control paths return a value
+  Project10B.vcxproj -> C:\Users\nikol\Desktop\StrukturePodataka\Project10B\x64\Debug\Project10B.exe

@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(64,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(64,26): warning C4024: 'PrintSome': different types for formal and actual parameter 2
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(92,19): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(92,14): warning C4024: 'NovaDrzava': different types for formal and actual parameter 1
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(134,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(134,12): warning C4024: 'NoviGrad': different types for formal and actual parameter 1
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(152,27): warning C4047: 'function': 'P_Grad' differs in levels of indirection from 'P_Grad *'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(152,12): warning C4024: 'UnosGrada': different types for formal and actual parameter 1
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(157,23): warning C4028: formal parameter 1 different from declaration
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(194,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'P_Grad'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(218,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'P_Grad'
+C:\Users\nikol\Desktop\StrukturePodataka\Project10A\Source.c(96): warning C4715: 'CitaDatDrzave': not all control paths return a value
+  Project10A.vcxproj -> C:\Users\nikol\Desktop\StrukturePodataka\Project10A\x64\Debug\Project10A.exe
