@@ -1,0 +1,2 @@
+Tokio 14000000
+Yokohama 3700000
